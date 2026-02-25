@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Lazy Boy",
+  "base_artist": "Creepy Nuts",
+  "createdAt": "2026-02-25T13:11:03.801771Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Lazy Boy",
+      "artist": "The Voidz",
+      "has_synced": true,
+      "path": "select/01_Lazy_Boy_The_Voidz.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Lazy Boy",
+      "artist": "Franz Ferdinand",
+      "has_synced": true,
+      "path": "select/02_Lazy_Boy_Franz_Ferdinand.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "The Lazy Boy",
+      "artist": "Moxy Fruvous",
+      "has_synced": true,
+      "path": "select/03_The_Lazy_Boy_Moxy_Fruvous.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Lazy Boy",
+      "artist": "Creepy Nuts",
+      "has_synced": true,
+      "path": "select/04_Lazy_Boy_Creepy_Nuts.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Lazy Boy",
+      "artist": "Creepy Nuts",
+      "has_synced": true,
+      "path": "select/05_Lazy_Boy_Creepy_Nuts.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Lazy Boy Dash",
+      "artist": "Jimmie's Chicken Shack",
+      "has_synced": true,
+      "path": "select/06_Lazy_Boy_Dash_Jimmie's_Chicken_Shack.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Lazy Boy",
+      "artist": "Shy Girls",
+      "has_synced": false,
+      "path": "select/07_Lazy_Boy_Shy_Girls.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Lazy Boy - Edit",
+      "artist": "Franz Ferdinand",
+      "has_synced": true,
+      "path": "select/08_Lazy_Boy_-_Edit_Franz_Ferdinand.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Lazy Boy (edit)",
+      "artist": "Franz Ferdinand",
+      "has_synced": true,
+      "path": "select/09_Lazy_Boy_(edit)_Franz_Ferdinand.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Lazy Boy",
+      "artist": "Mirei",
+      "has_synced": true,
+      "path": "select/10_Lazy_Boy_Mirei.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Lazy Boy",
+      "artist": "L.I.F.T",
+      "has_synced": false,
+      "path": "select/11_Lazy_Boy_L.I.F.T.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Lazy Boy",
+      "artist": "Voidz, The",
+      "has_synced": true,
+      "path": "select/12_Lazy_Boy_Voidz,_The.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Lazy Boy",
+      "artist": "The Bianca Story",
+      "has_synced": false,
+      "path": "select/13_Lazy_Boy_The_Bianca_Story.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Lazy Boy (Demo)",
+      "artist": "Odd One Out",
+      "has_synced": true,
+      "path": "select/14_Lazy_Boy_(Demo)_Odd_One_Out.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Lazy Boy",
+      "artist": "CreepyNuts",
+      "has_synced": false,
+      "path": "select/pl_01_Lazy_Boy_CreepyNuts.txt"
+    }
+  ]
+}
